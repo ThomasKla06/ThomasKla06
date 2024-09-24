@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Thomas Klaesges
-- 👀 I’m interested in reading, math, music, weight training
-- 🌱 I’m currently learning C++, HTML, CSS
+- Hi, I’m Thomas Klaesges
+- I’m interested in reading, math, music, weight training
+- I’m currently learning C++, HTML, CSS
 - One year of experience with Java
 
 <!---
