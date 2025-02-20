@@ -1,5 +1,5 @@
 - Hi, I’m Thomas Klaesges
-- I’m interested in reading, math, music, weight training
+- I’m interested in reading, math, software development, music, weight training, and gaming
 - I’m currently learning C++, HTML, CSS
 - One year of experience with Java
 
